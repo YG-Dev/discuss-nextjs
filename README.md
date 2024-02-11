@@ -10,6 +10,8 @@ Learning coursework based on Stephen Grider's Next JS course
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+NPM auth libraries - @auth/core@0.18.1 @auth/prisma-adapter@1.0.6 next-auth@5.0.0-beta.3
+
 ## After editing the .env.local
 
 First, run the development server:
