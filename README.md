@@ -1,14 +1,16 @@
 Learning coursework based on Stephen Grider's Next JS course
 -------------------------------
 
-## Used libraries
+## Used libraries and guide
 [`@nextui-org/react`](https://nextui.org) with [`framer-motion`] enabled - UI library for styled components
 
 [`prisma`](https://www.prisma.io) set to sqlite database - to make local requests and data fetching possible
 
+[`Github OAuth`](https://docs.github.com/en/apps/oauth-apps) to implement authentication, refer to .env.local.example file
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## After editing the .env.local
 
 First, run the development server:
 
