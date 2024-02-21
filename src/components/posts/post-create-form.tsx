@@ -27,12 +27,12 @@ export default function PostCreateForm({ slug }: PostCreateFormProps) {
     return (
         <Popover placement="left">
             <PopoverTrigger>
-                <Button color="primary">Create a topic</Button>
+                <Button color="primary">Create a post</Button>
             </PopoverTrigger>
             <PopoverContent>
                 <form action={action}>
                     <div className="flex flex-col gap-4 p-4 w-80">
-                        <h3 className="text-lg">Create a topic</h3>
+                        <h3 className="text-lg">Create a post</h3>
                         <Input
                             name="title"
                             label="Title"
