@@ -1,4 +1,4 @@
-import type { PostWithData } from '@/db/queries/post';
+import type { PostWithData } from '@/db/queries/posts';
 import Link from 'next/link';
 import paths from '@/paths';
 
